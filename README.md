@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough
-my video is an mp4 files so i just added it directly to my files under commit "vide walkthrough and pictures".
+https://submissions.us-east-1.linodeobjects.com/and102/2O-OQqPQ.gif
 ![Screenshot_20220917-183704_My Application](https://user-images.githubusercontent.com/103953522/190878905-09efbf1e-5dde-4335-a546-453a4fe9aa66.jpg)
 ![Screenshot_20220917-183656_My Application](https://user-images.githubusercontent.com/103953522/190878917-3c3dd49f-7ff0-43bb-87e5-4bf91dad6910.jpg)
 
